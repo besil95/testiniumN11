@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edddef46-921e-4966-9de2-c5b5f54a7004" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XUlGDtwLL9pg5zLl9YngLa7uBB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunManager">
+    <configuration name="baseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testiniumN11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="baseTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.baseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edddef46-921e-4966-9de2-c5b5f54a7004" name="Default Changelist" comment="" />
+      <created>1581108455695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581108455695</updated>
+      <workItem from="1581108461789" duration="9430000" />
+      <workItem from="1581159086731" duration="2584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1091" y="8" width="816" height="730" key="#Intentions" timestamp="1581119696182">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1091" y="8" width="816" height="730" key="#Intentions/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119696182" />
+    <state x="-1229" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581109445442">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1229" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581109445442" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1581119779595">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779595" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1581119779595">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779595" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1581119779594">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779594" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1581119779595">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779595" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1581119779589">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779589" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1581119779589">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779589" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1581119779589">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779589" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1581119779589">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581119779589" />
+    <state x="-1182" y="12" key="SettingsEditor" timestamp="1581111892455">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1182" y="12" key="SettingsEditor/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581111892455" />
+    <state x="-987" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581159086796">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-987" y="193" key="com.intellij.ide.util.TipDialog/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1581159086796" />
+  </component>
+</project>
